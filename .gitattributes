@@ -2,3 +2,6 @@ venv/lib/python3.11/site-packages/torch/lib/*.dylib filter=lfs diff=lfs merge=lf
 venv/lib/python3.11/site-packages/llvmlite/binding/*.dylib filter=lfs diff=lfs merge=lfs -text
 venv/lib/python3.11/site-packages/pyarrow/*.dylib filter=lfs diff=lfs merge=lfs -text
 venv/**/*.dylib filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/llvmlite/binding/libllvmlite.dylib filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/pyarrow/libarrow.2000.dylib filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
