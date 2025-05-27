@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn==0.30.6 
+streamlit==1.39.0
+yfinance==0.2.44
+beautifulsoup4==4.12.3
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-huggingface==0.1.0
+faiss-cpu==1.9.0
+transformers==4.44.2
+torch
+numpy==1.26.4
+pandas==2.2.3
+whisper==1.1.10
+pyttsx3==2.98
+requests==2.32.3
+pydantic==2.9.2
